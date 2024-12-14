@@ -78,8 +78,8 @@ We use several metrics to evaluate model performance:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deception-detection.git
-   cd deception-detection
+   git clone https://github.com/4qlaa7/Multimodal_Deception_Detection.git
+   cd Multimodal_Deception_Detection
    ```
 
 2. Install the required libraries:
