@@ -1,0 +1,10 @@
+cv2
+mediapipe
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+pickle5
